@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...  learning SQL 
 - 📫 How to reach me ... maddoc15@gmail.com 
 - 😄 Pronouns: ... none
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am new at this and I find it very interesting and I welcome any help/advice available. 
 
 <!---
 Blackwell-2099/Blackwell-2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
